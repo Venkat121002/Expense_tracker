@@ -98,7 +98,10 @@ The Expense Tracker is a full-stack web application designed to help users manag
 ---
 
 ## Screenshots
-Include screenshots of key features such as the dashboard, add transaction page, and charts.
+![Screenshot (45)](https://github.com/user-attachments/assets/895282f6-ac2d-4b46-825a-579b903281ec)
+![Screenshot (41)](https://github.com/user-attachments/assets/2aaedd6a-94c0-465c-81b0-303b5e975cfa)
+
+
 
 ---
 
