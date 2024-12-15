@@ -75,7 +75,7 @@ The Expense Tracker is a full-stack web application designed to help users manag
 
 ## Contact
 For queries or collaboration:
-- Email: your-email@example.com
-- GitHub: [your-username](https://github.com/your-username)
+- Email: venkatesh121002@gmail.com
+- GitHub: [Venkat121002](https://github.com/Venkat121002)
 
 ---
