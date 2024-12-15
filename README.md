@@ -105,26 +105,8 @@ The Expense Tracker is a full-stack web application designed to help users manag
 
 ---
 
-## Contribution
 
-Contributions are welcome! If you'd like to improve the project:
-1. Fork the repository.
-2. Create a new branch.
-3. Commit your changes.
-4. Open a pull request.
 
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Acknowledgements
-- Django Documentation: https://docs.djangoproject.com/
-- Bootstrap: https://getbootstrap.com/
-
----
 
 ## Contact
 For queries or collaboration:
