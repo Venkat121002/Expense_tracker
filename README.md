@@ -98,8 +98,12 @@ The Expense Tracker is a full-stack web application designed to help users manag
 ---
 
 ## Screenshots
-![Screenshot (45)](https://github.com/user-attachments/assets/895282f6-ac2d-4b46-825a-579b903281ec)
+![Screenshot (46)](https://github.com/user-attachments/assets/77c12351-7f7a-4e76-9616-7f1480412e42)
 ![Screenshot (41)](https://github.com/user-attachments/assets/2aaedd6a-94c0-465c-81b0-303b5e975cfa)
+![Screenshot (48)](https://github.com/user-attachments/assets/a988d2ed-47e4-4e46-acbb-53b51fcb823c)
+![Screenshot (47)](https://github.com/user-attachments/assets/d1322b6d-2755-4b99-9653-98121145bd90)
+![Screenshot (49)](https://github.com/user-attachments/assets/7abcadf5-fa75-4092-950e-151ec49a969d)
+
 
 
 
